@@ -6,8 +6,8 @@ This function helps to covert Pennylane Hamiltonian to QISKit Hamiltonian
 >print(h2_qubit_hamiltonian_pennylane)
 
 >(-0.10633119275955037) [I0]
-  + (0.1702977824748741) [Z0]
-  + (0.1702977824748741) [Z1]
+>  + (0.1702977824748741) [Z0]
+>  + (0.1702977824748741) [Z1]
   + (-0.2200940322812765) [Z2]
   + (-0.22009403228127644) [Z3]
   + (0.16834151984303647) [Z0 Z1]
